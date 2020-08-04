@@ -34,8 +34,12 @@ http://localhost:3000
 - Requisitos: Python
 
 Dentro de la carpeta `docs/` del proyecto se puede correr:
-```
+```bash
+# Con Python 2.x
 python -m SimpleHTTPServer 3000
+
+# Con Python 3.x
+python -m http.server 3000
 ``` 
 
 http://localhost:3000
