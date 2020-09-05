@@ -5,6 +5,8 @@
     * [Llaves](general/llaves.md)
 * Survival
 ** [Trabajos](survival/jobs.md)
+* PVP
+** [Factions](pvp/factions.md)
 - **Links**
 - [![iMinecrafting](https://iminecrafting.me/favicon.ico)Sitio oficial](https://www.iminecrafting.com)
 - [![Discord](../img/discord.ico)Discord](https://discord.iminecrafting.com)
