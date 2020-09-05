@@ -8,5 +8,5 @@
 
 - Tutoriales &dash; Guías &dash; Preguntas frecuentes
 
-[Ver documentación](/index)
+[Ver documentación](/README)
 [Ir al foro](https://www.iminecrafting.com)
